@@ -1,0 +1,10 @@
+{
+  "name": "قبل ما أشرح - منصة تدريب العرض والإلقاء",
+  "description": "بيئة تدريب آمنة وتفاعلية لطلاب تكنولوجيا التعليم للتدرج في مهارة العرض والتقديم والتغلب على الخوف من التحدث أمام الجمهور.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
